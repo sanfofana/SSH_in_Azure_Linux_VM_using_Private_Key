@@ -18,8 +18,8 @@
 ##  3.  Get the path your SSH private file
    -  You can use pwd to get the directory displyed in the shell and copy
 4.  Use the following syntax with your private key and connect to he VM.
-    - ssh -i <private key path> azureuser@ <IP address>
-
+    - ssh -i+private key path+azureuser@IPaddress
+    - For instance: ssh -i /Users/sanfofana/Downloads/mykey.pem azureuser@1x.xx.xx.xx
    
 ## 5. After confirmation you should get access to your linux Shell.
   
