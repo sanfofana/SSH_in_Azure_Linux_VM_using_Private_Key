@@ -1,7 +1,10 @@
 # SSH_in_Azure_Linux_VM_using_Private_Key
 
 - Note: In this project I install a kali linux VM from azure, and SSH in the using a private key (SHA256).
-- The virtual machine had been depley on azure
+- The virtual machine had been depley on azure.
+- The private key should be downlod while deploying the machine or after deployment.
+- It is important to know the private key location.
+
 ##  1.  Open the client of your choice
   - WSL on windows
   - Terminal on Mac
