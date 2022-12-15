@@ -1,4 +1,4 @@
-# SSH_in_Azure_Linux_VM_using_Private_Key
+# SSH_Azure_Linux_VM_using_Private_Key
 
 - Note: In this project I install a kali linux VM from azure, and SSH in the using a private key (SHA256).
 - The virtual machine had been depley on azure.
